@@ -148,4 +148,4 @@ recommend('Avatar')
 ```
 
 
-![Final Output]()
+![Final Output](https://github.com/DivyaArora873/movie-recommender-system/blob/main/Screenshot%202023-12-29%20151747.png)
